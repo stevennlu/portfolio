@@ -1,6 +1,6 @@
 "use client";
 
-import { Sun } from "lucide-react";
+
 import { useEffect, useState } from "react";
 
 
