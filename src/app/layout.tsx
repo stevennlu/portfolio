@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Steven Sanchez | Developer Portfolio ",
+  title: "Steven's Dev Portfolio ",
   description: "Full-stack developer specializing in modern web applications. Explore my projects, experience, and how to get in touch.",
 };
 
