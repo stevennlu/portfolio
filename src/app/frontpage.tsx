@@ -31,7 +31,7 @@ const FrontPage = () => {
           role: "Columbia University",
           content: "- Collaborating with the Columbia Climate School and NASA’s Open Science Initiative to improve access to Earth science educational materials.\n" +
           " - Built a new Sphinx-based documentation site for ScienceCore learning modules, converting Quarto files into .md and .rst formats to improve accessibility and usability.\n" +
-          "Used Git and GitHub to manage pull requests and collaborate with team members, created and reviewed branches, and ensured clean integration of updates into the main repository.",
+          "- Used Git and GitHub to manage pull requests and collaborate with team members, created and reviewed branches, and ensured clean integration of updates into the main repository.",
           date: "Apr 2025 - Present",
         },
 
