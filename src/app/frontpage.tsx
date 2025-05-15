@@ -86,7 +86,7 @@ const FrontPage = () => {
           </p>
 
           <div className="flex mt-8 items-center ">
-            <Button onClick={() => window.open("https://drive.google.com/file/d/1xi_Vm0HdRB2DeSjB8jSZbH2obKHOfbRU/view?usp=sharing")} variant="outline" className="bg-[##0e100f] hover:bg-slate-200/100">
+            <Button onClick={() => window.open("https://drive.google.com/file/d/1N2c3IhPnuVXkDTCnCeD55V3luC_KWcmm/view?usp=sharing")} variant="outline" className="bg-[##0e100f] hover:bg-slate-200/100">
               Resume
               <FileUser />
             </Button>
